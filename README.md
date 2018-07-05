@@ -34,3 +34,6 @@ https://5minuteshack.blogspot.com/2018/03/viet-game-flappy-bird-bang-html-js.htm
 https://o7planning.org/vi/10605/tao-mot-ung-dung-java-web-ban-hang-su-dung-spring-mvc-va-hibernate
 
 
+@Kafka 
+
+https://engineering.tiki.vn/gi%E1%BA%A3i-quy%E1%BA%BFt-c%C3%A1c-v%E1%BA%A5n-%C4%91%E1%BB%81-t%C3%ADch-h%E1%BB%A3p-b%E1%BA%B1ng-mysql-binlog-part-2-77483a572798
