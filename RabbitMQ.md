@@ -26,3 +26,4 @@ rabbitmq-service.bat start
 
 @Sau đó bạn có thể truy cập vào RabitMQ theo link sau http://localhost:15672. Enter login guest/guest
 
+http://www.giaosucan.com/2018/01/kien-truc-message-queue-trong.html
