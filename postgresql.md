@@ -13,11 +13,43 @@ dumpbin /exports C:\yourpath\yourlib.dll
 
 This will print quite a bit of text to the console. However we are only interested in the functions:
 
+ordinal hint RVA      name
+
+1    0 00017770 jcopy_block_row
+
+2    1 00017710 jcopy_sample_rows
+
+3    2 000176C0 jdiv_round_up
+
+4    3 000156D0 jinit_1pass_quantizer
+
+5    4 00016D90 jinit_2pass_quantizer
+
+6    5 00005750 jinit_c_coef_controller
+
+
+...etc
+
 
 
 
 Now copy all those function names (only the names!) and paste them into a new textfile. Name the nextfile yourlib.def and put the line “EXPORTS” at its top. My yourlib.def file looks like this:
 
+EXPORTS
+
+jcopy_block_row
+
+jcopy_sample_rows
+
+jdiv_round_up
+
+jinit_1pass_quantizer
+
+jinit_2pass_quantizer
+
+jinit_c_coef_controller
+
+...
 
 Now from that definition file, we can finally create the .lib file. We use the “lib” tool for this, so run this command in your Visual Studio Command Prompt:
 
