@@ -14,6 +14,10 @@
 [Book](https://www.openmymind.net)  
 [Gophercises](https://gophercises.com)  
 [Gocloud](https://gocloud.dev)  
+[Web dev](https://www.usegolang.com)  
+
+**Docker**  
+[Painless Docker](https://painlessdocker.com)  
 
 **Other**  
 [SearchCode](https://searchcode.com)  
