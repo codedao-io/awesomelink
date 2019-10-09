@@ -19,6 +19,10 @@
 **Docker**  
 [Painless Docker](https://painlessdocker.com)  
 
+**Angular/Typescript**  
+[Fireship](https://fireship.io)  
+
 **Other**  
 [SearchCode](https://searchcode.com)  
 [Security Code Scan - static code analyzer for .NET](https://security-code-scan.github.io/)  
+
