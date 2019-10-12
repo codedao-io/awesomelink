@@ -29,6 +29,9 @@
 **Java**  
 [Spring](https://www.baeldung.com)  
 
+**SQL server**  
+[SQL Server performance problems](https://www.wardyit.com/blog/5-common-causes-sql-server-performance-problems/)  
+
 **Other**  
 [SearchCode](https://searchcode.com)  
 [Security Code Scan - static code analyzer for .NET](https://security-code-scan.github.io/)  
