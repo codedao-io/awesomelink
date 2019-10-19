@@ -33,6 +33,9 @@
 [SQL Server performance problems](https://www.wardyit.com/blog/5-common-causes-sql-server-performance-problems/)  
 [SQL Server Maintenance Solution](https://ola.hallengren.com/)  
 
+**Javascript**  
+[Learn Java Script](https://learnjavascript.online)  
+
 **Other**  
 [SearchCode](https://searchcode.com)  
 [Security Code Scan - static code analyzer for .NET](https://security-code-scan.github.io/)  
