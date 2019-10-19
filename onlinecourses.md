@@ -1,5 +1,6 @@
+:octocat: https://gist.github.com/rxaviers/7360908
 
-**Common**  
+:white_check_mark:**Common**  
 [Lets find course](http://letsfindcourse.com)  
 [Mr Bool](http://mrbool.com)  
 [Code Avengers](https://www.codeavengers.com)  
@@ -7,7 +8,7 @@
 [Mosh](https://codewithmosh.teachable.com/)  
 [Educative](https://www.educative.io)  
 
-**Golang**  
+:white_check_mark:**Golang**  
 [Golang boot](https://golangbot.com)  
 [Golang bootcamp Book](http://www.golangbootcamp.com)  
 [Golang appliedgo](https://appliedgo.com)  
@@ -17,26 +18,26 @@
 [Web dev](https://www.usegolang.com)  
 [gRPC](justforlearning.com/)  
 
-**Docker**  
+:white_check_mark:**Docker**  
 [Painless Docker](https://painlessdocker.com)  
 
-**Angular/Typescript**  
+:white_check_mark:**Angular/Typescript**  
 [Fireship](https://fireship.io)  
 
-**Rust**  
+:white_check_mark:**Rust**  
 [Rust online doc](https://doc.rust-lang.org)  
 
-**Java**  
+:white_check_mark:**Java**  
 [Spring](https://www.baeldung.com)  
 
-**SQL server**  
+:white_check_mark:**SQL server**  
 [SQL Server performance problems](https://www.wardyit.com/blog/5-common-causes-sql-server-performance-problems/)  
 [SQL Server Maintenance Solution](https://ola.hallengren.com/)  
 
-**Javascript**  
+:white_check_mark:**Javascript**  
 [Learn Java Script](https://learnjavascript.online)  
 
-**Other**  
+:white_check_mark:**Other**  
 [SearchCode](https://searchcode.com)  
 [Security Code Scan - static code analyzer for .NET](https://security-code-scan.github.io/)  
 
